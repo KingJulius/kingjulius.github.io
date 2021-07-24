@@ -304,6 +304,10 @@ a:hover {
   width: 100%;
 }
 
+#my_img {
+  border-radius: 8px;
+}
+
 /* BG */
 
 #bg {
